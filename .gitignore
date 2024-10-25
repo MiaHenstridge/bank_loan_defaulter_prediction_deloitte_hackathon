@@ -1,0 +1,3 @@
+# Ignore all the .csv and .pkl files
+**/*.csv
+**/*.pkl
