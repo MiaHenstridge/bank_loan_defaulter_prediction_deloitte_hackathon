@@ -1,0 +1,12 @@
+{
+    "reg_lambda": 6.3196111268544755,
+    "reg_alpha": 0.47413402202875937,
+    "colsample_bytree": 0.5,
+    "subsample": 0.4,
+    "learning_rate": 0.012,
+    "n_estimators": 677,
+    "num_leaves": 126,
+    "min_child_samples": 152,
+    "max_depth": 11,
+    "min_child_weight": 160
+}
