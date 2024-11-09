@@ -1,12 +1,12 @@
 {
-    "reg_lambda": 5.976058266043061,
-    "reg_alpha": 0.32315740018763595,
+    "reg_lambda": 3.9752389222703144,
+    "reg_alpha": 0.12818660561996767,
     "colsample_bytree": 0.3,
-    "subsample": 0.8,
-    "learning_rate": 0.012,
-    "n_estimators": 945,
-    "num_leaves": 118,
-    "min_child_samples": 101,
-    "max_depth": 20,
-    "min_child_weight": 166
+    "subsample": 0.7,
+    "learning_rate": 0.01,
+    "n_estimators": 930,
+    "num_leaves": 122,
+    "min_child_samples": 132,
+    "max_depth": 16,
+    "min_child_weight": 158
 }
