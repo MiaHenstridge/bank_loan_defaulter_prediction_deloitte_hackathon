@@ -1,10 +1,10 @@
 {
-    "learning_rate": 0.016,
-    "depth": 5,
-    "subsample": 0.4,
-    "l2_leaf_reg": 7.777199253863327,
-    "min_data_in_leaf": 50,
-    "random_strength": 9.406568977265469,
-    "bagging_temperature": 0.23609089462675786,
-    "colsample_bylevel": 0.15225106197683597
+    "learning_rate": 0.012,
+    "depth": 4,
+    "colsample_bylevel": 0.3,
+    "l2_leaf_reg": 1.043287196401912,
+    "random_strength": 6.891236957715073,
+    "bagging_temperature": 0.2603272291297151,
+    "subsample": 0.0851981641313757,
+    "min_data_in_leaf": 55
 }
